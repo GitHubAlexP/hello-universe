@@ -8,4 +8,6 @@ Rules
 
 #3 Set the map
 
-$4 Bring the tools
+#4 Bring the tools
+
+#5 Start with milestones
