@@ -7,3 +7,5 @@ Rules
 #2 Set the steps
 
 #3 Set the map
+
+$4 Bring the tools
